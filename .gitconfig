@@ -9,3 +9,5 @@
   	dump = cat-file -p
 [push]
 	default = matching
+[core]
+	excludesfile = .gitignore
