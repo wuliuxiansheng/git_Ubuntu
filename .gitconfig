@@ -11,3 +11,4 @@
 	default = matching
 [core]
 	excludesfile = .gitignore
+	editor = vi
