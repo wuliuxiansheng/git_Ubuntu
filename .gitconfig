@@ -10,5 +10,7 @@
 [push]
 	default = matching
 [core]
+	autocrlf = input
+	safecrlf = true
 	excludesfile = .gitignore
 	editor = vi
